@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b64e99ec-21b5-4c9a-9ab6-1f7ce4c2ec70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Sem 9.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AreaTriangulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/TestAreaTriangulo.py" afterDir="false" />
-    </list>
+    <list default="true" id="b64e99ec-21b5-4c9a-9ab6-1f7ce4c2ec70" name="Changes" comment="IMPLEMENTACIÓN DEL TEST" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +38,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -91,6 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715986359522</updated>
     </task>
+    <task id="LOCAL-00001" summary="IMPLEMENTACIÓN DEL TEST">
+      <option name="closed" value="true" />
+      <created>1715992545005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715992545005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IMPLEMENTACIÓN DEL TEST" />
+    <option name="LAST_COMMIT_MESSAGE" value="IMPLEMENTACIÓN DEL TEST" />
   </component>
 </project>
